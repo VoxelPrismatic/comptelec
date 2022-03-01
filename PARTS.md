@@ -75,3 +75,4 @@ i used digikey, so those are the links i'm providing. if you want to use another
    - 6V is a bit high, but I think it's fine.
  
  its about $120, which is a lot, but whatever
+ i also think [if i did my maths right] that every single pin on the rpi will be used
