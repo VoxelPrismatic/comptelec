@@ -1,10 +1,13 @@
 i used digikey, so those are the links i'm providing. if you want to use another vender, go for it.
 
 this is a project about aesthetics. i could certainly buy a regular pocket calculator, but that's honestly no fun. yes some parts are complete overkill, like the power switch, but i like it
-## NOTICE
-Everything **MUST** be compatible with 3.3V. The Raspberry Pi Pico does support 1.8V-5.5V input voltage, but all the GPIO pins are 3.3V, **NOT 5V**.
-
+<details><summary><h3>Want to buy alternative parts?</h3></summary>
+Everything <b>MUST</b> be compatible with 3.3V. The Raspberry Pi Pico does support 1.8V-5.5V input voltage, but all the GPIO pins are 3.3V, <b>NOT 5V</b>.
+ 
 Be smart, do your research, unlike me ;] [i had to buy parts twice!]
+ 
+Also, my code is reliant on the fact that you are using these parts. I will try to add as many configuration variables as possible, but it may not always be compatible with your setup.
+</details>
 
 ## Already decided?
 If you already want to build it and want to use DigiKey, you can create a upload a new list using [this file](https://github.com/VoxelPrismatic/comptelec/blob/main/PARTS.csv) [links to another file, don't right-click and save]. Already formatted so you don't have to deal with selecting column types. **Be sure to read the rest of the list for any warnings and notices.**
