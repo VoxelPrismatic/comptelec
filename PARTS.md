@@ -7,16 +7,16 @@ Everything **MUST** be compatible with 3.3V. The Raspberry Pi Pico does support 
 Be smart, do your research, unlike me ;] [i had to buy parts twice!]
 
 ## Already decided?
-If you already want to build it and want to use DigiKey, you can create a upload a new list using [this file](https://github.com/VoxelPrismatic/comptelec/blob/main/PARTS.csv) [links to another file, don't right-click and save]. Already formatted so you don't have to deal with selecting column types
+If you already want to build it and want to use DigiKey, you can create a upload a new list using [this file](https://github.com/VoxelPrismatic/comptelec/blob/main/PARTS.csv) [links to another file, don't right-click and save]. Already formatted so you don't have to deal with selecting column types. **Be sure to read the rest of the list for any warnings and notices.**
 
 If not, you can continue and choose what you need
 
 ### buttons & switches
 | Qty | Img | Description | Link | Notes |
 |-|-|-|-|-|
-| 45 | ![image](https://user-images.githubusercontent.com/45671764/157557460-20c1fa71-4f2b-4820-b2fc-7e60c91f6263.png) | White buttons | [[digikey]](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/431481031816/5209071) | - 6.2 x 6.2mm <br> - 3-4mm tall <br> - Used for the button grid: `.XX...XXX..`<br>**NOTE:** I recieved black buttons, so I'll paint them white. Feel free to buy 90 of the black buttons, it's cheaper |
+| 45 | ![image](https://user-images.githubusercontent.com/45671764/157557460-20c1fa71-4f2b-4820-b2fc-7e60c91f6263.png) | White buttons | [[digikey]](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/431481031816/5209071) | - 6.2 x 6.2mm <br> - 3-4mm tall <br> - Used for the button grid: `.XX...XXX..`<br>**NOTE:** If you plan on using 3D-printed button caps, feel free to buy 90 of the next button, it's cheaper. |
 | 45 | ![image](https://user-images.githubusercontent.com/45671764/157557504-e096d71c-fe9f-47dd-9a7c-3ae0a65d74d2.png) | Black buttons | [[digikey]](https://www.digikey.com/en/products/detail/cts-electrocomponents/222CMVBAR/5227985) | - 6.2 x 6.2mm <br> - 3-4mm tall <br> - Used for the button grid: `...XXX...XX` |
-| 3 | ![image](https://user-images.githubusercontent.com/45671764/157557529-c10bf63b-dc34-47b7-9303-c134128868ab.png) | Vertical buttons | [[digikey]](https://www.digikey.com/en/products/detail/c-k/PTS645VH31-2-LFS/1146771) | Used for extras, eg:<br>- Decimal indicator<br>- Operation counter<br>- Store number? |
+| 3 | ![image](https://user-images.githubusercontent.com/45671764/157557529-c10bf63b-dc34-47b7-9303-c134128868ab.png) | Vertical buttons | [[digikey]](https://www.digikey.com/en/products/detail/c-k/PTS645VH31-2-LFS/1146771) | Used for extras, eg:<br>- Decimal indicator<br>- Operation counter<br>- Undo last keypress |
 | 10 | ![image](https://user-images.githubusercontent.com/45671764/157557561-8fb936df-d806-455f-9d9b-03c17466a03d.png) | Slide toggle switch | [[digikey]](https://www.digikey.com/en/products/detail/nidec-copal-electronics/CSS-1210TB/1124209) | - SPDT/SPST<br>- Used for prevent rollover switches<br> - Under all screens except the rightmost one |
 | 1 | ![image](https://user-images.githubusercontent.com/45671764/157560915-d2ffe916-7686-426f-8313-ade3d3097f1d.png) | Power switch | [[digikey]](https://www.digikey.com/en/products/detail/zf-electronics/SRB22A2FBRNN/446027) | I like this one, you can use a different switch if you want to |
 | 1 | ![image](https://user-images.githubusercontent.com/45671764/157561008-d8617ae4-123d-4028-8d59-6c14e12331b6.png) | Microswitch with lever | [[digikey]](https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/SAJ101XBL0N74SDTPTQ/11312253) | Aesthetic reset switch |
