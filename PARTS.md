@@ -73,7 +73,7 @@ and it won't look as cool.
 | 1 | ![image](https://user-images.githubusercontent.com/45671764/157561986-0dbd8da0-9b0a-416e-afb5-8d0dd6d64448.png) | Ice cube Ice blue LED | [[digikey]](https://www.digikey.com/en/products/detail/sunled/XSFRS23MBBA/4745859) | - Reset LED<br>- This specific LED is purely aesthetic, but you should still buy an LED |
 | 1 | ![image](https://user-images.githubusercontent.com/45671764/157562085-40586a73-af80-4c6c-a610-53cd20849324.png) | 3 cell AA/AAA holder | [[digikey:AAA]](https://www.digikey.com/en/products/detail/keystone-electronics/2480/303825)<br>[[digikey:AA]](https://www.digikey.com/en/products/detail/keystone-electronics/2465/303814) | **NOTE:** I used the __AAA__ holder [top link], so my enclosure will reflect that<br>**NOTE:** The RPi Pico WILL BE DAMAGED if you use a 4-cell holder. Operating voltage is 1.8V ~ 5.5V<br>**DO NOT PURCHASE A 4 CELL HOLDER WITHOUT PROPER VOLTAGE REGULATION** |
  
-Altogether costs $121.12 in parts alone [as of Mar09,2022]. You could buy a graphing calculator for an additional $25, but if you made it this far, I think you agree that it's well worth the experience.
+Altogether costs $110±20 in parts alone [the cost varies like $20 every time i refresh the page, idk]. You could buy a graphing calculator for an additional $25, but if you made it this far, I think you agree that it's well worth the experience.
 
 If this project is popular enough, I may design a PCB so perfboards aren't in the picture anymore.
 
