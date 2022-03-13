@@ -1,5 +1,7 @@
 # comptelec
 A small electronic version of the Comptometer Model H
+![image](https://user-images.githubusercontent.com/45671764/158040498-d520e403-8c90-4dd9-9841-072491a6fad4.png)
+
 
 # why?
 why not lol
