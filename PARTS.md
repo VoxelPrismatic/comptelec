@@ -34,7 +34,8 @@ If not, you can continue and choose what you need
 
 
 ### ICs
-We ran out of pins on the RPi. Yes I could buy a second RPi and all would work well, but that means writing code to communicate between RPi's
+We ran out of pins on the RPi. Yes I could buy a second RPi and all would work well, but that means writing code to communicate between RPi's, 
+and it won't look as cool.
 | Qty | Img | Description | Link | Notes |
 |-|-|-|-|-|
 | 3 | ![image](https://user-images.githubusercontent.com/45671764/157557745-fe7488e2-2143-4dbf-ab58-569771ea22bf.png) | 2x4 bit buffer [74 LS 244] | [[digikey]](https://www.digikey.com/en/products/detail/texas-instruments/SN74LVC244AN/377479) | - 1x - 2x4 pins for grid input<br>- 1x - 2x4 pins for switches input<br>- 1x - 1x4 for grid, 1x4 for switches<br>**This is a 3.6V chip, do not use for other 5V projects** |
@@ -51,18 +52,19 @@ We ran out of pins on the RPi. Yes I could buy a second RPi and all would work w
 |-|-|-|-|-|
 | 1 | ![image](https://user-images.githubusercontent.com/45671764/157558123-d4447442-3787-44c6-a6d1-14fa50f1b519.png) | 6x6in perfboard | [[digikey]](https://www.digikey.com/en/products/detail/vector-electronics/8016-1/416001) | - For buttons & screen<br>- Score & cut for the switches board |
 | 1 | ![image](https://user-images.githubusercontent.com/45671764/157558236-972a71c4-cc8c-4218-b7c5-6fada450f064.png) | Smaller perfboard | [[digikey]](https://www.digikey.com/en/products/detail/twin-industries/8000-45/480489) | - For logic stuff |
-| 2 | ![image](https://user-images.githubusercontent.com/45671764/157558362-ef833c0f-413c-496d-8e72-30db1d0635ce.png) | Black wire | [[digikey]](https://www.digikey.com/en/products/detail/tubedepot/CW-20-SLD-BLACK/10489239) | Ground wires |
-| 2 | ![image](https://user-images.githubusercontent.com/45671764/157559930-bbea0f3c-3f0e-45ee-b789-c3727c7984a1.png) | Red wires | [[digikey]](https://www.digikey.com/en/products/detail/tubedepot/CW-20-SLD-RED/10491003) | 3.3V wires |
-| 4 | ![image](https://user-images.githubusercontent.com/45671764/157560112-f563bfe7-5908-4567-88c7-1bdf6e6e7142.png) | Blue wires | [[digikey]](https://www.digikey.com/en/products/detail/tubedepot/CW-20-SLD-BLUE/10488998) | Screen data |
-| 3 | ![image](https://user-images.githubusercontent.com/45671764/157560219-9c6ff053-ead7-4530-90ac-f1b0daab86e7.png) | White wires | [[digikey]](https://www.digikey.com/en/products/detail/tubedepot/CW-20-SLD-WHITE/10490268) | Switches |
-| 3 | ![image](https://user-images.githubusercontent.com/45671764/157560276-b6837b91-87a5-4b9f-9b98-29cb501ada34.png) | Yellow wires | [[digikey]](https://www.digikey.com/en/products/detail/tubedepot/CW-20-SLD-YELLOW/10490365) | For number [1-9] select |
-| 3 | ![image](https://user-images.githubusercontent.com/45671764/157560357-a23d028f-469a-415c-9695-79dad1fb3788.png) | Green wires | [[digikey]](https://www.digikey.com/en/products/detail/tubedepot/CW-20-SLD-GREEN/10490081) | For digit [1s, 10s, 100s, etc] select |
+| 2 | ![image](https://user-images.githubusercontent.com/45671764/158080534-6d001ad7-0f25-4b18-b071-18b509f752d2.png) | Black wire | [[digikey]](https://www.digikey.com/en/products/detail/htpvc/HTPVC-22-STR-BLACK/10489237) | Ground wires |
+| 2 | ![image](https://user-images.githubusercontent.com/45671764/158080529-447549a1-d93a-42d4-a17e-6ac34aa90011.png) | Red wires | [[digikey]](https://www.digikey.com/en/products/detail/htpvc/HTPVC-22-STR-RED/10490910) | Vcc wires |
+| 4 | ![image](https://user-images.githubusercontent.com/45671764/158080553-878c5769-0980-4e48-8e77-2a96e8fa71da.png) | Blue wires | [[digikey]](https://www.digikey.com/en/products/detail/htpvc/HTPVC-22-STR-BLUE/10490694) | Screen data |
+| 3 | ![image](https://user-images.githubusercontent.com/45671764/158080568-e55780f5-04f1-47b9-9669-05e6bf32b4d1.png) | White wires | [[digikey]](https://www.digikey.com/en/products/detail/htpvc/HTPVC-22-STR-WHITE/10489654) | Switches |
+| 3 | ![image](https://user-images.githubusercontent.com/45671764/158080583-6140f657-3430-42e8-86ef-fd63f11ff596.png) | Yellow wires | [[digikey]](https://www.digikey.com/en/products/detail/htpvc/HTPVC-22-STR-YELLOW/10489090) | For number [1-9] select |
+| 3 | ![image](https://user-images.githubusercontent.com/45671764/158080605-b639cb87-f399-43e7-b186-e4fa60ccac75.png) | Green wires | [[digikey]](https://www.digikey.com/en/products/detail/htpvc/HTPVC-22-STR-GREEN/10489402) | For digit [1s, 10s, 100s, etc] select |
 
 ### extras
 | Qty | Img | Description | Link | Notes |
 |-|-|-|-|-|
 | 10 | ![image](https://user-images.githubusercontent.com/45671764/157560518-04dcf8a7-d900-4ca4-843c-cb5487f0bc70.png) | 75Ω resistor | [[digikey]](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CFM12JT75R0/1742006) | - For **my** red displays<br>- If you use different displays, use a different resistor |
 | 12 | ![image](https://user-images.githubusercontent.com/45671764/157560686-ddff0a14-b2c0-48e3-9039-612ff14773de.png) | 8.2Ω resistor | [[digikey]](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CFM12JT8R20/2617275) | - For **my** blue displays<br>- If you use different displays, use a different resistor |
+| 10 | ![image](https://user-images.githubusercontent.com/45671764/158080283-23456b14-9da5-4a5f-985b-22a80e481621.png) | 10kΩ resistor | [[digikey]](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT10K0/1741265) | 10x - Pullup resistors for the button grid<br>10x - Pulldown resistors for the switches |
 | 14 | ![image](https://user-images.githubusercontent.com/45671764/157561369-77a5953b-2768-4e28-8534-fbb58d8e1a70.png) | 8pos male connector | [[digikey]](https://www.digikey.com/en/products/detail/sullins-connector-solutions/PREC008SBAN-M71RC/2774926) | Makeshift ribbon cable<br>I don't want to solder wires directly between boards |
 | 14 | ![image](https://user-images.githubusercontent.com/45671764/157561487-96cefc12-6e2e-4f2c-8d74-091a60bbe5df.png) | 8pos female connector | [[digikey]](https://www.digikey.com/en/products/detail/adam-tech/SMC-1-08-1-GT/9830825) | ^ |
 | 2 | ![image](https://user-images.githubusercontent.com/45671764/157561554-79ce6610-e477-4d55-92ed-371e88e7c064.png) | 14pos male connector | [[digikey]](https://www.digikey.com/en/products/detail/adam-tech/PH1-20-UA/9830398) | For rpi, I don't want to solder directly to the board<blockquote>Included with RPi Pico from **Adafruit**</blockquote> |
