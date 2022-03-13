@@ -4,11 +4,10 @@ A small electronic version of the Comptometer Model H
 
 
 # why?
-why not lol
 
-the modern calculator is so damn boring and cookie-cutter. shitty rubber dome buttons that don't work 75% of the time, same 8 digits, same screen, no character.
+cuz modern calcs are boring, and mechanical calculators are always superior
 
-so, i'm building my own calculator that has some character
+next time ill probably build the bohn contex 10
 
 # note
 dont build this yet, i havent built it myself yet.
