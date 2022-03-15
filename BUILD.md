@@ -5,5 +5,12 @@ this exact layout is only applicable if you use my exact parts. you may have to 
 i haven't built this in real life yet, so everything here is subject to change
 
 # diagram
+![comptelec](https://user-images.githubusercontent.com/45671764/158288996-c214e789-50db-43b5-bde1-6273324ca084.png)
 
-![comptelec](https://user-images.githubusercontent.com/45671764/158079909-58d6d910-f767-441c-bcf2-148549c24691.png)
+# part 1
+huh, i didnt realize i was soldering with a spoon for this part
+![20220314_172301](https://user-images.githubusercontent.com/45671764/158289094-c2685e63-234a-4d94-b57a-8384c6c55052.jpg)
+do yourself a favor and buy an actually decent iron if you dont have one already
+
+i recommend the [pinecil](pine64.org/pinecil) from pine64, i bought one but unfortunately i did all the soldering thus far with the spoon
+![20220314_203432](https://user-images.githubusercontent.com/45671764/158288988-5650f2a3-41ef-4278-9368-f0092c68dd38.jpg)
