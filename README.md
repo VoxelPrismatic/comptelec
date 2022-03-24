@@ -7,7 +7,14 @@ A small electronic version of the Comptometer Model H
 
 cuz modern calcs are boring, and mechanical calculators are always superior
 
-next time ill probably build the bohn contex 10
+currently:
+- comptometer [model h]
+
+calcs to do:
+- bohn contex 10
+- burroghs [whatever AkBKukU / Tech Tangents has]
 
 # note
 dont build this yet, i havent built it myself yet.
+
+also, if this project gets enough stars i may design a PCB
