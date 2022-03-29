@@ -1,3 +1,9 @@
+/**
+ * Copyright (c) 2020 PRIZ ;]
+ * 
+ * SPDX-License-Identifier: GPLv2
+ */
+
 #include <stdio.h>
 #include <stdbool.h>
 #include "pico/stdio.h"
