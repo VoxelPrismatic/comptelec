@@ -25,3 +25,11 @@ okay, i really recommend not using those 'firesticks' which plug straight into t
 or anything.
 if you do have one of those, just buy a pinecil, it's only $25. [the ts100 is like double the price]
 ![20220323_144734](https://user-images.githubusercontent.com/45671764/159795767-61cc9c64-4231-4a58-a2b8-b310c3d36485.jpg)
+
+# 3
+sorry for the slow updates, i need to take pics and document everything, im too lazy
+
+if you want me to post more, star the repo or DM me on discord @ `PRIZ ;]#9244` and then ill update this. 
+in the meantime ill just be taking photos, not documenting.
+
+good luck!
